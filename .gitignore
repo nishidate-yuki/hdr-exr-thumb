@@ -1,0 +1,6 @@
+.vs
+*.vcx*
+*.aps
+*.rc
+hdr_exr_thumb/x64
+*pbd
